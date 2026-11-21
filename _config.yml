@@ -1,0 +1,4 @@
+title: Enravage
+description: Picks the photos worth posting.
+markdown: kramdown
+exclude: [README.md]
